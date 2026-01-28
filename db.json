@@ -1,9 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "products": [
+    {
+      "id": 1,
+      "image": "https://picsum.photos/seed/product-1/640/480",
+      "title": "Wireless Headphones",
+      "desc": "Comfortable over-ear wireless headphones with noise cancellation.",
+      "price": 129.99
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/seed/product-2/640/480",
+      "title": "Smart Watch",
+      "desc": "Fitness tracking smart watch with heart rate monitor and GPS.",
+      "price": 89.5
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/seed/product-3/640/480",
+      "title": "Portable Speaker",
+      "desc": "Water-resistant portable speaker with 12-hour battery life.",
+      "price": 59.0
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/seed/product-4/640/480",
+      "title": "Laptop Stand",
+      "desc": "Adjustable aluminum laptop stand for better ergonomics.",
+      "price": 34.99
+    },
+    {
+      "id": 5,
+      "image": "https://picsum.photos/seed/product-5/640/480",
+      "title": "USB-C Hub",
+      "desc": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
+      "price": 42.75
+    },
+    {
+      "id": 6,
+      "image": "https://picsum.photos/seed/product-6/640/480",
+      "title": "Mechanical Keyboard",
+      "desc": "Compact mechanical keyboard with tactile switches and RGB.",
+      "price": 74.25
+    }
+  ]
 }
